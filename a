@@ -1,2 +1,6 @@
 #include <studio.h> #adding from master
 #include <conio.h>
+
+int main(){
+   int i;
+}
